@@ -7,6 +7,6 @@ The objective of this project is to apply core data modeling and visualization t
 
 
 **2. Demo** <br>
-👉 Click the image below to explore the interactive Power BI dashboard:
+👉 *Click the image below to explore the interactive Power BI dashboard:*
 
 [![Adventure Works Dashboard](https://github.com/thwaythwayhtet/Adventure-Work-Performance-Dashboard/blob/main/Images/AdventureWork%201.pdf.png)](https://app.powerbi.com/view?r=eyJrIjoiZDI1YTUxNTUtYTliYS00ZmE3LTk4YzMtMzdiNGE0MjE0ZjZkIiwidCI6IjdjYzFiNjI1LTRiOGUtNDE4Yi1hZjdkLWUwY2MxMTJlNGVkMSIsImMiOjEwfQ%3D%3D)
